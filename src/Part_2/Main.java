@@ -1,4 +1,9 @@
 package Part_2;
 
-public class Main {
+/*
+---------- Part 2 -----------
+ */
+
+public class Main
+{
 }

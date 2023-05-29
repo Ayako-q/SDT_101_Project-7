@@ -10,7 +10,7 @@ public class Main
     {
         System.out.println("\n\u001B[35mPart 3:\u001B[0m");
         System.out.println("""
-                Part 2.1
+                Part 3.1
                 (a) Draw Binary Search Tree:
                          5
                        /    |
@@ -22,9 +22,9 @@ public class Main
                  / 
                 1
                                 
-                (b) the height will be 5
+                (b) the height will be 4
                                 
-                2.2 Key	Number of Key Comparisons
+                3.2 Key	Number of Key Comparisons
                 1	5
                 2	4
                 3	3

@@ -36,7 +36,7 @@ public class Main
                                 
                 (c) The nodes visited during a preorder traversal of the given binary tree would be:
                                 
-                7, 8, 5, 6, 2, 9, 3, 1, 4
+                7, 8, 5, 6, 2, 9, 3, 1, 4,
                                 
                 (d) The nodes visited during a postorder traversal of the given binary tree would be:
                                 
